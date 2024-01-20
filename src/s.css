@@ -1,0 +1,23 @@
+/* RandomPokemonPage.css */
+
+.Apps {
+    text-align: center;
+  }
+  
+  .titleSection {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+  }
+  
+  .displaySection {
+    margin-top: 20px;
+  }
+  
+  .displaySection img {
+    max-width: 300px;
+    margin-top: 10px;
+  }
+  
+  /* Add more styling as needed */
+  

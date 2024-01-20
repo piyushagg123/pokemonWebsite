@@ -1,0 +1,47 @@
+/* PokemonInfoPage.css */
+
+.Apps {
+    text-align: center;
+  }
+  
+  .titleSection {
+    background-color: #2196f3;
+    color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .titleSection input{
+    margin-bottom: 15px;
+  }
+  
+  .displaySection {
+    margin-top: 20px;
+  }
+  
+  .displaySection h1 {
+    color: #f44336;
+  }
+  
+  .displaySection img {
+    max-width: 300px;
+    margin-top: 10px;
+  }
+  img{
+    width: 500px;
+  }
+  .result{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .second{
+    text-decoration: none;
+    color: white;
+  }
+  /* Add more styling as needed */
+  
